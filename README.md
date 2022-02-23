@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sri-ganga-santoshi-torati-741081119/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18253737/ganga-santoshi)
+[![Linkedin Badge](https://img.shields.io/badge/-Santoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sri-ganga-santoshi-torati-741081119/)](https://www.linkedin.com/in/sri-ganga-santoshi-torati-741081119/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Santoshi-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Santoshi-yellow)](https://stackoverflow.com/users/18253737/ganga-santoshi)
 
 I'm
 Full Stack Webdeveloper
